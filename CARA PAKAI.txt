@@ -1,0 +1,29 @@
+CARA MENJALANKAN
+=================
+
+1. Extract seluruh isi ZIP ke satu folder.
+2. Klik dua kali jalankan.bat.
+3. Browser akan membuka http://127.0.0.1:8765.
+4. Saat pertama kali, buat akun administrator lokal.
+5. Jangan tutup jendela hitam selama aplikasi digunakan.
+6. Untuk berhenti, tutup jendela hitam tersebut.
+
+TIDAK PERLU DIINSTAL
+====================
+- Tidak perlu menginstal Python.
+- Tidak perlu menginstal Node.js.
+- Tidak perlu koneksi internet.
+- Tidak menggunakan Flask.
+
+DATA LOKAL
+==========
+- Database: database\gaji.db
+- Backup: backup\
+- Export: export\
+- Akun lokal: auth\
+
+Pindahkan seluruh folder bila ingin memindahkan aplikasi. Buat backup sebelum mengganti komputer atau restore database.
+
+KOMPATIBILITAS
+==============
+Runtime memakai Python 3.8.10 portable untuk Windows 64-bit. Target browser adalah Chrome/Edge 109 atau yang lebih baru. Windows 7 memerlukan SP1 dan browser kompatibel yang masih tersedia di komputer tersebut.

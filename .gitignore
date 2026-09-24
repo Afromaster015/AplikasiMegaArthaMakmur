@@ -1,0 +1,17 @@
+database/*.db*
+auth/
+secret/
+sessions/
+backup/*
+export/*
+logs/*
+runtime/
+frontend/node_modules/
+frontend/dist/
+frontend/test-results/
+frontend/playwright-report/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.zip
+.commandcode/
